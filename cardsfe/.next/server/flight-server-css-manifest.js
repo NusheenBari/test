@@ -1,0 +1,34 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\layout.tsx": [
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\page": [
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\globals.css",
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\login\\page": [
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\globals.css",
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\login\\resetpassword\\page": [
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\globals.css",
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\company\\page": [
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\globals.css",
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\dashboard\\page": [
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\globals.css",
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\company\\addcard\\page": [
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\app\\globals.css",
+      "C:\\Users\\naush\\OneDrive\\Desktop\\exps\\cardsdigify\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
