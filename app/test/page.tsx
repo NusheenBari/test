@@ -1,4 +1,5 @@
 import { log } from "console";
+import { userAgent } from "next/server";
 
 const getPosts = async () => {
     const res = await fetch("https://jsonplaceholder.typicode.com/posts", {
@@ -16,6 +17,7 @@ const getUsers = async () => {
 
 export default async function Posts() {
     const [postbody, users] = await Promise.all([getPosts(), getUsers(),]);
+    console.log({users})
         
     return(
         <>
